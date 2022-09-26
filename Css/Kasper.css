@@ -19,7 +19,7 @@ html {
 body {
     font-family: 'Work Sans', sans-serif;
 }
-.up {
+a.up {
     position: fixed;
     bottom: 20px;
     right: 20px;
